@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.gitignore
 .apt_generated
 .classpath
 .factorypath
@@ -11,6 +12,8 @@ out/
 .settings
 .springBeans
 .sts4-cache
+Practice.iml
+.idea
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
