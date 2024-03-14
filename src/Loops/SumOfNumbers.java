@@ -1,7 +1,7 @@
 package Loops;
 
 // Question => Sum of Numbers: Calculate the sum of numbers from 1 to 100 using a for loop and while loop
-public class QueTwo {
+public class SumOfNumbers {
     public static void main(String[] args) {
         int sum=0;
         // Using For Loop
