@@ -1,5 +1,4 @@
-**JAVA Questions**
-
+# **JAVA Questions**
 ## Loops
 1. **Print Numbers**: Write a program to print numbers from 1 to 10 using a for loop.
 2. **Even Numbers**: Print even numbers between 1 and 20 using a for loop.
@@ -21,3 +20,9 @@
 5. **Smallest Element in Array**: Find the smallest element in an array.
 6. **Search Element in Array**: Search for a specific element in an array and print its index if found.
 7. **Reverse Array**: Reverse the elements of an array.
+8. **Duplicate Elements in Array**: Print the Duplicate elements of an array.
+9. **Sort Duplicate Elements**: Remove Duplicate Element in an array.
+10. **Sorting in Ascending Order**: Sort the elements of an array in Ascending order.
+11. **Sorting in Descending Order**: Sort the elements of an array in Descending order.
+12. **Total Elements in Array**: Print the number of elements present in an array.
+13. **Odd Even Elements**: Print Odd and Even Numbers from an array.
