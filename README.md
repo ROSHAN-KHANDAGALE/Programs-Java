@@ -26,3 +26,5 @@
 11. **Sorting in Descending Order**: Sort the elements of an array in Descending order.
 12. **Total Elements in Array**: Print the number of elements present in an array.
 13. **Odd Even Elements**: Print Odd and Even Numbers from an array.
+14. **Left Rotate Elements in Array**: Java Program to left rotate the elements of an array.
+15. **Right Rotate Elements in Array**: Java Program to right rotate the elements of an array.
