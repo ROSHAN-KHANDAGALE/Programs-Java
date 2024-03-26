@@ -9,7 +9,7 @@ public class ReverseArray {
         for(int i = 0; i < arr.length; i++) {
             revArr[i] = arr[arr.length - 1 - i];
         }
-        System.out.println("Original Array : " + Arrays.toString((arr)));
+        System.out.println("Original Array : " + Arrays.toString(arr));
         System.out.println("Reversed Array : " + Arrays.toString(revArr));
     }
 }
