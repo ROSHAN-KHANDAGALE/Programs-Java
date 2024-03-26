@@ -1,7 +1,7 @@
 package Arrays;
 import java.util.Arrays;
 // Question: Copy Array: Copy the elements of one array into another array.
-public class OldToNewArray {
+public class CopyArray {
     public static void main(String[] args) {
         int[] old_arr = {12, 10, 15, 5, 22};
         int[] new_arr = new int[old_arr.length];
