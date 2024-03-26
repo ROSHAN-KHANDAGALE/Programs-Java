@@ -28,3 +28,9 @@
 13. **Odd Even Elements**: Print Odd and Even Numbers from an array.
 14. **Left Rotate Elements in Array**: Java Program to left rotate the elements of an array.
 15. **Right Rotate Elements in Array**: Java Program to right rotate the elements of an array.
+
+## Matrix
+1. **Addition of Array**: To Add two Dimensional array.
+2. **Subtraction of Array**: To Subtract two Dimensional array.
+3. **Multiplication of Array**: To Multiply two Dimensional array.
+4. **Division of Array**: To Divide two Dimensional array.
