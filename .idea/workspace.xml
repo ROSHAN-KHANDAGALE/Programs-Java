@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bea88062-29ec-4773-b0e9-e375577b4520" name="Changes" comment="New Added">
+    <list default="true" id="bea88062-29ec-4773-b0e9-e375577b4520" name="Changes" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LeftRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RightRotate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/DuplicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +41,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AscendingOrder.executor": "Run",
     "Application.AverageOfArray.executor": "Run",
+    "Application.DescendingOrder.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.LargestElement.executor": "Run",
+    "Application.LeftRotate.executor": "Run",
     "Application.LoopsQueOne.executor": "Run",
+    "Application.OddEvenArrayElements.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.RightRotate.executor": "Run",
     "Application.SearchElement.executor": "Run",
     "Application.SmallestElement.executor": "Run",
+    "Application.SortDuplicateElements.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets.root"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,9 +67,9 @@
       <recent name="E:\CODE\.vscode\Practice_java\Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateElements">
-    <configuration name="DuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.DuplicateElements" />
+  <component name="RunManager" selected="Application.RightRotate">
+    <configuration name="LeftRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LeftRotate" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LargestElement" />
+    <configuration name="OddEvenArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.OddEvenArrayElements" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -99,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RightRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RightRotate" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.SearchElement" />
       <module name="Practice" />
@@ -112,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SmallestElement" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DuplicateElements" />
+        <item itemvalue="Application.RightRotate" />
+        <item itemvalue="Application.LeftRotate" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.SearchElement" />
-        <item itemvalue="Application.LargestElement" />
-        <item itemvalue="Application.SmallestElement" />
+        <item itemvalue="Application.OddEvenArrayElements" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +207,87 @@
       <option name="project" value="LOCAL" />
       <updated>1710589152817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1710602665359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710602665360</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1710602756591</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710602756591</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1711368911303</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711368911303</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1711369053194</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711369053194</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711448627201</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711448627202</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1711460271657</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711460271657</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711476105674</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711476105674</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711476602731</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711476602731</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711476946440</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711476946440</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711476969778</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711476969778</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +333,7 @@
     <MESSAGE value="Changed" />
     <MESSAGE value="New Change" />
     <MESSAGE value="New Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Added" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
