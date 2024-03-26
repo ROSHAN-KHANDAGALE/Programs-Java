@@ -1,5 +1,4 @@
 package Arrays;
-import java.util.Arrays;
 // Question: Smallest Element in Array: Find the smallest element in an array.
 public class SmallestElement {
     public static void main(String[] args) {
