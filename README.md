@@ -28,6 +28,9 @@
 13. **Odd Even Elements**: Print Odd and Even Numbers from an array.
 14. **Left Rotate Elements in Array**: Java Program to left rotate the elements of an array.
 15. **Right Rotate Elements in Array**: Java Program to right rotate the elements of an array.
+16. **Shift Index Ascending**: Java Program to Sort the elements of an array in Ascending order from a specific Index. 
+17. **Shift Index Descending**: Java Program to Sort the elements of an array in Descending order from a specific Index.
+18. **User Defined Array**: Java Program to create a user Defined Array.
 
 ## Matrix
 1. **Addition of Array**: To Add two Dimensional array.
