@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bea88062-29ec-4773-b0e9-e375577b4520" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/LeftRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RightRotate.java" afterDir="false" />
+    <list default="true" id="bea88062-29ec-4773-b0e9-e375577b4520" name="Changes" comment="New Added">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/AddElementAtFirstIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ShiftIndexAscendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ShiftIndexDescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/AdditionOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeFile/DemoDiscuss.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/UserInputArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/UserInputArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +44,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddElement.executor": "Run",
     "Application.AscendingOrder.executor": "Run",
     "Application.AverageOfArray.executor": "Run",
+    "Application.DemoDiscuss.executor": "Run",
     "Application.DescendingOrder.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.LargestElement.executor": "Run",
@@ -52,8 +57,13 @@
     "Application.ReverseArray.executor": "Run",
     "Application.RightRotate.executor": "Run",
     "Application.SearchElement.executor": "Run",
+    "Application.ShiftIndexAscendingOrder.executor": "Run",
+    "Application.ShiftIndexDescendingOrder.executor": "Run",
     "Application.SmallestElement.executor": "Run",
     "Application.SortDuplicateElements.executor": "Run",
+    "Application.TotalElementsInArray.executor": "Run",
+    "Application.TotalLengthAndPresentElements.executor": "Run",
+    "Application.UserInputArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -67,9 +77,9 @@
       <recent name="E:\CODE\.vscode\Practice_java\Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RightRotate">
-    <configuration name="LeftRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LeftRotate" />
+  <component name="RunManager" selected="Application.UserInputArray">
+    <configuration name="AddElementAtFirstIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.AddElementAtFirstIndex" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.OddEvenArrayElements" />
+    <configuration name="DemoDiscuss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFile.DemoDiscuss" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiftIndexAscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ShiftIndexAscendingOrder" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
+    <configuration name="TotalLengthAndPresentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TotalLengthAndPresentElements" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -107,21 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RightRotate" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SearchElement" />
+    <configuration name="UserInputArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.UserInputArray" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RightRotate" />
-        <item itemvalue="Application.LeftRotate" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.SearchElement" />
-        <item itemvalue="Application.OddEvenArrayElements" />
+        <item itemvalue="Application.UserInputArray" />
+        <item itemvalue="Application.AddElementAtFirstIndex" />
+        <item itemvalue="Application.DemoDiscuss" />
+        <item itemvalue="Application.TotalLengthAndPresentElements" />
+        <item itemvalue="Application.ShiftIndexAscendingOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +297,55 @@
       <option name="project" value="LOCAL" />
       <updated>1711476969778</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711477447561</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711477447561</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711477498550</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711477498550</updated>
+    </task>
+    <task id="LOCAL-00019" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1711477793884</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711477793884</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1711513959628</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711513959628</updated>
+    </task>
+    <task id="LOCAL-00021" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1711513991149</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711513991149</updated>
+    </task>
+    <task id="LOCAL-00022" summary="New Added">
+      <option name="closed" value="true" />
+      <created>1711594973258</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1711594973259</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,8 +390,8 @@
     <MESSAGE value="New Changes" />
     <MESSAGE value="Changed" />
     <MESSAGE value="New Change" />
-    <MESSAGE value="New Added" />
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="New Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Added" />
   </component>
 </project>
